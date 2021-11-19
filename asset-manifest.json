@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/day8-movieapi/static/css/main.f5b255ba.chunk.css",
+    "main.js": "/day8-movieapi/static/js/main.923ac819.chunk.js",
+    "main.js.map": "/day8-movieapi/static/js/main.923ac819.chunk.js.map",
+    "runtime-main.js": "/day8-movieapi/static/js/runtime-main.471df59e.js",
+    "runtime-main.js.map": "/day8-movieapi/static/js/runtime-main.471df59e.js.map",
+    "static/js/2.578edf7b.chunk.js": "/day8-movieapi/static/js/2.578edf7b.chunk.js",
+    "static/js/2.578edf7b.chunk.js.map": "/day8-movieapi/static/js/2.578edf7b.chunk.js.map",
+    "static/js/3.b19c03c0.chunk.js": "/day8-movieapi/static/js/3.b19c03c0.chunk.js",
+    "static/js/3.b19c03c0.chunk.js.map": "/day8-movieapi/static/js/3.b19c03c0.chunk.js.map",
+    "index.html": "/day8-movieapi/index.html",
+    "static/css/main.f5b255ba.chunk.css.map": "/day8-movieapi/static/css/main.f5b255ba.chunk.css.map",
+    "static/js/2.578edf7b.chunk.js.LICENSE.txt": "/day8-movieapi/static/js/2.578edf7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.471df59e.js",
+    "static/js/2.578edf7b.chunk.js",
+    "static/css/main.f5b255ba.chunk.css",
+    "static/js/main.923ac819.chunk.js"
+  ]
+}
